@@ -2,7 +2,8 @@
 Super Ops | Waterfall detox &amp; GitOps Quick Start. The first dose is free ;)
 
 # Syllibus
-Where is my Platform?
+Where is my Platform?    
+    
     0. Git ready    
       - No More Bastions! gitops in a box + platform point of origin    
       - Start local k8s    
